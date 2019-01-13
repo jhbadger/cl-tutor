@@ -1,0 +1,18 @@
+#!/bin/sh
+#|-*- mode:lisp -*-|#
+#|
+exec ros -Q -m cl-tutor -L sbcl-bin -- $0 "$@"
+|#
+(progn ;;init forms
+  (ros:ensure-asdf)
+  #+quicklisp (ql:quickload '(:lem-ncurses :cl-tutor) :silent t)
+  )
+
+(defpackage :ros.script.cl-tutor.3723186728
+  (:use :cl))
+(in-package :ros.script.cl-tutor.3723186728)
+
+(defun main (&rest argv)
+  (declare (ignore argv))
+  (lem:lem '(cl-tutor:cl-tutor)))
+;;; vim: set ft=lisp lisp:
