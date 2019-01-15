@@ -1,8 +1,5 @@
 # cl-tutor
 
-![cl-tutor](screenshot/img01.png)　　
-
-
 ![cl-tutor](screenshot/img02.png)　　
 
 Common Lisp Learning System on lem
