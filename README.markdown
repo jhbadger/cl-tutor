@@ -1,6 +1,6 @@
 # cl-tutor
 
-![cl-tutor](screenshot/img02.png)　　
+![cl-tutor](screenshot/img02.png)
 
 Common Lisp Learning System on lem
 
@@ -32,7 +32,7 @@ $ ros install t-cool/cl-tutor
 
 1. start cl-tutor
 
-　　If you add `.roswell/bin` to PATH, you can use `cl-tutor` command.
+　　If you added `.roswell/bin` to PATH, you can use `cl-tutor` command.
 
 ```
 $ cl-tutor
@@ -47,10 +47,13 @@ $ ros run
 ```
 
 2. choose the chapter
+![cl-tutor](screenshot/intro1.png)
 
 3. answer the questions on the editor
+![cl-tutor](screenshot/intro2.png)
 
 4. type F5(Function5) to check your answer 
+![cl-tutor](screenshot/intro3.png)
 
 ## Copyright
 
