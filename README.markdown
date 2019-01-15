@@ -28,8 +28,6 @@ $ ros install t-cool/cl-tutor
 
 ## Usage
 
-[![screencast](https://img.youtube.com/vi/1Ymuet3Q6ic/0.jpg)](https://www.youtube.com/watch?v=1Ymuet3Q6ic)
-
 1. start cl-tutor
 
 　　If you added `.roswell/bin` to PATH, you can use `cl-tutor` command.
