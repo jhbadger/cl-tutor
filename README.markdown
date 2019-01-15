@@ -6,7 +6,7 @@ Common Lisp Learning System on lem
 
 ## Platform
 
-MacOS, Linux
+macOS, Linux
 
 ## Installation
 
