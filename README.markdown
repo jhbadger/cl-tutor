@@ -12,7 +12,7 @@ MacOS, Linux
 
 1. install roswell and add `./roswell/bin` to PATH.
 
-[Roswell Installation Guide](https://github.com/roswell/roswell/wiki/Installation)
+　　[Roswell Installation Guide](https://github.com/roswell/roswell/wiki/Installation)
 
 2. install lem
 
@@ -28,19 +28,17 @@ $ ros install t-cool/cl-tutor
 
 ## Usage
 
-Please watch the screencast:
-
 [![screencast](https://img.youtube.com/vi/1Ymuet3Q6ic/0.jpg)](https://www.youtube.com/watch?v=1Ymuet3Q6ic)
 
 1. start cl-tutor
 
-If you add `.roswell/bin` to PATH, you can use `cl-tutor` command.
+　　If you add `.roswell/bin` to PATH, you can use `cl-tutor` command.
 
 ```
 $ cl-tutor
 ```
 
-You can also load cl-tutor by roswell REPL.
+　　You can also load cl-tutor by roswell REPL.
 
 ```
 $ ros run
